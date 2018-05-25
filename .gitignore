@@ -9,3 +9,4 @@
 output  
 .ssh  
 ._test.py
+.Xauthority
